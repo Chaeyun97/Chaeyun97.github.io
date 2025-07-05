@@ -1,5 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Optimization of Central Source Contact 
+Length to Mitigate Temperature Variation 
+and Thermal Crosstalk in Multi-Finger 
+AlGaN/GaN HEMTs: Reliability-based 
+Simulation"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
