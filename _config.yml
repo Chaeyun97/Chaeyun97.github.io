@@ -222,7 +222,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-     patents:
+  patents:
     output: true
     permalink: /:collection/:path/
   portfolio:
