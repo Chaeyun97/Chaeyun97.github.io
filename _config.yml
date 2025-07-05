@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://chaeyun97.github.io/images/KakaoTalk_20250407_192431862.png"
+  avatar           : "https://chaeyun97.github.io/images/KakaoTalk_20250407_192431862.jpg"
   name             : "Chaeyun Lim"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
