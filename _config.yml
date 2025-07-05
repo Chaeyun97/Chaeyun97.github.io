@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chaeyun Lim / Chaeyun's webgpage"
+title                    : "Chaeyun Lim / Chaeyun's webpage"
 title_separator          : "-"
 name                     : &name "Chaeyun Lim"
 description              : &description "RF/mmWave Devices, GaN HEMTs researcher at Dongguk University"
