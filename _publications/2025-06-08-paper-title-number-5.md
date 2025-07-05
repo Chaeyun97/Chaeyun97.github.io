@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Optimization of Source-connected Field Plate in AlGaN/GaN HEMTs towards high-power and high-frequency Operations: A Simulation Study"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
