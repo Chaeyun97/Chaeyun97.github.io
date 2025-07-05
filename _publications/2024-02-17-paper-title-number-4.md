@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Reducing Thermal Crosstalk in Multi-Finger AlGaN/GaN HEMTs Through Central Source Length Modulation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
