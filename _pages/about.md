@@ -11,6 +11,7 @@ Welcome! I'm Chaeyun Lim, a researcher at Dongguk University interested in RF/mm
 
 This website is where I share my research publications, academic presentations, and professional activities.  
 I am currently working on advanced modeling and simulation of AlGaN/GaN HEMTs using Silvaco TCAD, with focus on RF performance optimization and thermal management.
+![{FC201212-AC08-489A-B004-5C3F7AC59169}](https://github.com/user-attachments/assets/0f93fe09-d3c9-4cae-9bb1-0cc3e8d8f0f4)
 
 A data-driven personal website
 ======![{EE5C073A-64AC-4844-9D50-DFBB7114A884}](https://github.com/user-attachments/assets/50e2ebef-45d7-4450-9606-92c4b43c3f27)
