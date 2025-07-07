@@ -4,7 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2025-02-17-paper-title-number-4
 date: 2025-02-17
-paperurl: 'http://chaeyun97.github.io/files/IEIE.pdf'
+paperurl: 'http://chaeyun97.github.io/files/KCS2025_Abstract.pdf'
+slideurl: 'http://chaeyun97.github.io/files/KCS2025_Slide.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
