@@ -1,56 +1,38 @@
 {% include base_path %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {{ title }}
-    </h2>
+    <!-- 제목 (클릭 안되게 텍스트만) -->
+    <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
 
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-    {% if post.collection == 'teaching' %}
-      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
-    {% elsif post.collection == 'publications' %}
+    <!-- 학회 / 날짜 -->
+    {% if post.collection == 'publications' %}
       {% if post.status == 'submitted' %}
         <p><em>Submitted to</em> <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% else %}
         <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% endif %}
     {% elsif post.date %}
-      <p class="page__date">
-        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-        {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
-        <time datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%B %d, %Y" }}
-        </time>
-      </p>
+      <p><strong>Published:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
     {% endif %}
 
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% endif %}
+    <!-- 본문 전체 렌더링 -->
+    <div class="archive__item-body">
+      {{ post.content }}
+    </div>
 
+    <!-- 다운로드 링크 -->
     {% if post.paperurl %}
       <p><a href="{{ post.paperurl }}">📄 Download Paper</a></p>
     {% endif %}
 
+    <!-- Citation -->
     {% if post.citation %}
       <p><strong>Citation:</strong> {{ post.citation }}</p>
     {% endif %}
-
-    <!-- ✅ 본문 전체 렌더링 (이미지 + Abstract 포함) -->
-    <div class="archive__item-body">
-      {{ post.content }}
-    </div>
 
   </article>
 </div>
