@@ -29,8 +29,7 @@ Research Experiences
 ======
 Jan 2024 – Dec 2024
 
-Analysis of GaN HEMT Device Characteristics According to Dielectric Layer Composition
-(Jan – Jun 2024)
+Analysis of GaN HEMT Device Characteristics According to Dielectric Layer Composition (Jan – Jun 2024)
 
 ▪ Investigated the impact of self-heating effects on the electrical and thermal characteristics of GaN HEMTs.
 
