@@ -4,7 +4,6 @@ collection: publications
 category: conferences
 permalink: /publication/2025-02-17-paper-title-number-4
 date: 2025-02-17
-venue: 'GitHub Journal of Bugs'
 paperurl: 'http://chaeyun97.github.io/files/IEIE.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
@@ -12,7 +11,7 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 
  ![{9BE1DAE8-4A1B-43E8-B553-1AC5C7FE166F}](https://github.com/user-attachments/assets/2ffead51-be5b-4461-88e7-553d91f018c3)
 
-###Oral Presentation
+### Oral Presentation
 ### Abstract
 <div class="justify-text">
 This study investigates the thermal and DC characteristics of single-finger, two-finger, and fourfinger AlGaN/GaN high-electron-mobility transistors (HEMTs) by considering the self-heating
