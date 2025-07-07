@@ -12,7 +12,7 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 
  ![{9BE1DAE8-4A1B-43E8-B553-1AC5C7FE166F}](https://github.com/user-attachments/assets/2ffead51-be5b-4461-88e7-553d91f018c3)
 
- 
+###Oral Presentation
 ### Abstract
 <div class="justify-text">
 This study investigates the thermal and DC characteristics of single-finger, two-finger, and fourfinger AlGaN/GaN high-electron-mobility transistors (HEMTs) by considering the self-heating
