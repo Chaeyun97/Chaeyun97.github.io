@@ -1,11 +1,5 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -20,9 +14,7 @@
     </h2>
 
     {% if post.read_time %}
-      <p class="page__meta">
-        <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
-      </p>
+      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
     {% if post.collection == 'teaching' %}
@@ -55,7 +47,7 @@
       <p><strong>Citation:</strong> {{ post.citation }}</p>
     {% endif %}
 
-    <!-- ✅ 본문 전체 렌더링 (이미지 + abstract 포함) -->
+    <!-- ✅ 본문 전체 렌더링 (이미지 포함) -->
     <div class="archive__item-body">
       {{ post.content }}
     </div>
