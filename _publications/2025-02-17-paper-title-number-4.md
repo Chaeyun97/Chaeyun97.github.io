@@ -9,8 +9,8 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 ---
 
 
- ![{9BE1DAE8-4A1B-43E8-B553-1AC5C7FE166F}](https://github.com/user-attachments/assets/2ffead51-be5b-4461-88e7-553d91f018c3)
-
+![{52901827-0406-4856-86BB-199D2F7D3094}](https://github.com/user-attachments/assets/e236ad31-6051-4cbc-895d-50d2788d6181)
+![KakaoTalk_20250707_153656243](https://github.com/user-attachments/assets/0276b9a6-64ed-4e6e-ac54-18d2120ebfb6)
 ### Oral Presentation
 ### Abstract
 <div class="justify-text">
