@@ -7,7 +7,6 @@ Simulation"
 collection: publications
 category: manuscripts
 excerpt: Abstract
-
 Thermal crosstalk and temperature variations 
 among gate fingers hinder the operation of multi-finger 
 AlGaN/GaN high-electron-mobility transistors (HEMTs) by 
