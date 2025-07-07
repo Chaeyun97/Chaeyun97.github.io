@@ -2,7 +2,6 @@
 title: "Optimization of Central Source Contact Length to Mitigate Temperature Variation and Thermal Crosstalk in Multi-Finger AlGaN/GaN HEMTs: Reliability-based Simulation"
 collection: publications
 category: manuscripts
-excerpt: A reliability-based thermal analysis of AlGaN/GaN multi-finger HEMTs.
 date: 2025-05-27
 venue: 'IEEE Transactions on Electron Devices'
 paperurl: 'https://chaeyun97.github.io/files/TED-Submitted.pdf'
