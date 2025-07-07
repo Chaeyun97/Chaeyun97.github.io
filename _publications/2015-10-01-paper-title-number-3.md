@@ -14,8 +14,6 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 status: submitted
 ---
 ![그림1](https://github.com/user-attachments/assets/9200e40f-a336-40e7-85ed-ca8e7b7b623d)
-![{C0835A1D-8649-4DF3-B1F2-D09C5091F603}](https://github.com/user-attachments/assets/3776550d-c725-4696-893f-a5e6548fe3f0)
-
 Abstract
 
 Thermal crosstalk and temperature variations 
