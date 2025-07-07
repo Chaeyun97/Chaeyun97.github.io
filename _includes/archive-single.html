@@ -1,38 +1,66 @@
 {% include base_path %}
 
-{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h2>
 
-    <!-- 제목 (클릭 안되게 텍스트만) -->
-    <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
+    {% if post.read_time %}
+      <p class="page__meta">
+        <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+      </p>
+    {% endif %}
 
-    <!-- 학회 / 날짜 -->
-    {% if post.collection == 'publications' %}
+    {% if post.collection == 'teaching' %}
+      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+    {% elsif post.collection == 'publications' %}
       {% if post.status == 'submitted' %}
         <p><em>Submitted to</em> <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% else %}
         <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% endif %}
     {% elsif post.date %}
-      <p><strong>Published:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+      <p class="page__date">
+        <strong>
+          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+          {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+        </strong>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
     {% endif %}
 
-    <!-- 본문 전체 렌더링 -->
-    <div class="archive__item-body">
-      {{ post.content }}
-    </div>
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
 
-    <!-- 다운로드 링크 -->
     {% if post.paperurl %}
       <p><a href="{{ post.paperurl }}">📄 Download Paper</a></p>
     {% endif %}
 
-    <!-- Citation -->
     {% if post.citation %}
       <p><strong>Citation:</strong> {{ post.citation }}</p>
     {% endif %}
+
+    {%- comment -%}
+    ❗ 포스트 전체 내용은 상세 페이지에서만 렌더링합니다.
+    {{ post.content }} 를 리스트에서 제거해 중복 방지.
+    {%- endcomment -%}
 
   </article>
 </div>
