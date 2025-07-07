@@ -9,6 +9,8 @@ venue: 'Micromachines'
 paperurl: 'http://chaeyun97.github.io/files/Micromachines.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+![그림2](https://github.com/user-attachments/assets/c9854a8f-94e6-445d-808f-70d4c1099ce1)
+
 Abstract
 
 <div class="justify-text">
