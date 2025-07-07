@@ -11,6 +11,8 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 ---
 ![{E457EA9E-C9D6-4C4A-A66F-CF9A5DF27008}](https://github.com/user-attachments/assets/e31cfdad-e116-4b16-b107-3f8f640de2bc)
 ![{CC89F393-37DD-4ED5-8538-F49BDD7DA5F8}](https://github.com/user-attachments/assets/6716ac25-d3d8-4cc6-b286-8a3e416c6737)
+![KakaoTalk_20250707_152453168](https://github.com/user-attachments/assets/bf397774-82ed-467c-b503-cd941ea5053b)
+
 
 ### Abstract
 <div class="justify-text">
