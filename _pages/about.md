@@ -38,7 +38,8 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul 
 
 ![그림10](https://github.com/user-attachments/assets/cc543357-1324-48d5-8da9-3c0cbf74e526)
 
-🗓 2025
+Jan 2025 – Current
+
 Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
 
 ▪ Built 3D simulation models to validate and refine earlier 2D simulation data.
@@ -47,7 +48,7 @@ Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
 
 ▪ Ensured simulation reliability to support further optimization of GaN HEMT performance.
 
-Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Dec 2025)
+Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current)
 
 ▪ Integrated multi-year data to map realistic device operation and validate extracted parameters.
 
@@ -56,6 +57,11 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Dec 202
 ▪ Proposed enhanced structures optimized for 5G frequency bands based on trade-off analysis.
 
 ▪ Suggested methods to enhance the reliability of GaN HEMTs through DC-RF correlation and thermal coupling analysis.
+
+![그림11](https://github.com/user-attachments/assets/728f9e57-5763-49de-84c5-caf9b2fd08de)
+![그림12](https://github.com/user-attachments/assets/eb091a59-9bbc-4be6-8b3e-a86890f833c8)
+
+
 
 Research Interests
 ======
