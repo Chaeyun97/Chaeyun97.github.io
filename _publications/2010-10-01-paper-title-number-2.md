@@ -22,5 +22,5 @@ To ensure the simulation reliability, the parameters were calibrated based on th
 However, the increased parasitic capacitances reduced the cut-off frequency. To mitigate this reduction, the operational characteristics of hybrid and partial passivation structures were analyzed. Compared with the HfO₂ passivation structure, the HfO₂ partial passivation structure exhibited a 7.6% reduction in breakdown voltage but a substantial 82.76% increase in cut-off frequency.  
 
 In addition, the HfO₂ partial passivation structure exhibited the highest Johnson’s figure of merit. Consequently, considering the trade-off relationship between breakdown voltage and frequency characteristics, the HfO₂ partial passivation structure emerged as a promising candidate for high-power and high-frequency AlGaN/GaN HEMT applications.
-![그림2](https://github.com/user-attachments/assets/c9854a8f-94e6-445d-808f-70d4c1099ce1)
+
 </div>
