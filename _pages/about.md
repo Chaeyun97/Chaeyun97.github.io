@@ -11,10 +11,9 @@ Welcome! I'm Chaeyun Lim, a researcher at Dongguk University interested in RF/mm
 
 This website is where I share my research publications, academic presentations, and professional activities.  
 I am currently working on advanced modeling and simulation of AlGaN/GaN HEMTs using Silvaco TCAD, with focus on RF performance optimization and thermal management.
-![{FC201212-AC08-489A-B004-5C3F7AC59169}](https://github.com/user-attachments/assets/0f93fe09-d3c9-4cae-9bb1-0cc3e8d8f0f4)
 
 A data-driven personal website
-======![{EE5C073A-64AC-4844-9D50-DFBB7114A884}](https://github.com/user-attachments/assets/50e2ebef-45d7-4450-9606-92c4b43c3f27)
+======
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -26,7 +25,7 @@ For those users that need more advanced functionality, the template also support
 - [Plotly](https://plotly.com/javascript/) for plotting
   
 
-Getting started
+Research Experiences
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -35,7 +34,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Research Interests
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
