@@ -8,8 +8,9 @@ venue: 'GitHub Journal of Bugs'
 paperurl: 'http://chaeyun97.github.io/files/IEIE2024.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
+![그림3](https://github.com/user-attachments/assets/18d111e4-62ef-4d67-849f-f1202c9a2d71)
+ ![KakaoTalk_20250707_160142072](https://github.com/user-attachments/assets/08f9ddda-67e0-4c34-b721-664dce796313)
 
- 
  
 ### Abstract
 <div class="justify-text">
