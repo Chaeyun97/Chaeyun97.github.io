@@ -45,6 +45,16 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions
 ▪ Performed thermal simulations to optimize the heat sink structure and minimize hot spots.
 
 ▪ Compared DC and RF thermal characteristics with and without optimized thermal structure
+![그림4](https://github.com/user-attachments/assets/e12418a9-10f7-48c2-a01b-af6be99365c5)
+![그림5](https://github.com/user-attachments/assets/6d128e34-a363-4939-8c41-d98d3dd98b3c)
+![그림6](https://github.com/user-attachments/assets/4a78dee9-0c39-417a-ab4c-0fe91105b382)
+![그림7](https://github.com/user-attachments/assets/478faeb5-8975-4178-828c-b5706a1bbbdd)
+![그림8](https://github.com/user-attachments/assets/ccd2f881-f574-43dd-bbde-20ae043d4858)
+![그림9](https://github.com/user-attachments/assets/579d9472-6a68-4e17-920b-e18db5c82fcf)
+
+![그림10](https://github.com/user-attachments/assets/cc543357-1324-48d5-8da9-3c0cbf74e526)
+
+
 
 
 Research Interests
