@@ -27,12 +27,26 @@ For those users that need more advanced functionality, the template also support
 
 Research Experiences
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Jan 2024 – Dec 2024
+
+Analysis of GaN HEMT Device Characteristics According to Dielectric Layer Composition
+(Jan – Jun 2024)
+
+▪ Investigated the impact of self-heating effects on the electrical and thermal characteristics of GaN HEMTs.
+
+▪ Analyzed the influence of different dielectric materials (Si₃N₄, Al₂O₃, etc.) on DC to RF performance.
+
+▪ Evaluated heat distribution and designed efficient thermal management structures based on dielectric variation.
+
+Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions
+(Jul – Dec 2024)
+
+▪ Proposed high-efficiency heat dissipation structures for GaN HEMTs using Copper-Filled Thermal Vias and Trench Heat Sinks.
+
+▪ Performed thermal simulations to optimize the heat sink structure and minimize hot spots.
+
+▪ Compared DC and RF thermal characteristics with and without optimized thermal structure
+
 
 Research Interests
 ======
