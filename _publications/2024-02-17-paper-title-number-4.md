@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://chaeyun97.github.io/files/2025 IEIE.pdf'
+paperurl: 'http://chaeyun97.github.io/files/IEIE.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 ![{E457EA9E-C9D6-4C4A-A66F-CF9A5DF27008}](https://github.com/user-attachments/assets/e31cfdad-e116-4b16-b107-3f8f640de2bc)
