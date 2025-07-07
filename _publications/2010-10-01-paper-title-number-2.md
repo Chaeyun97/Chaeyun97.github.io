@@ -3,12 +3,21 @@ title: "Operational Characteristics of AlGaN/GaN High-Electron-Mobility Transist
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Micromachines'
 
 paperurl: 'http://chaeyun97.github.io/files/Micromachines.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+Abstract
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<div class="justify-text">
+
+This study investigates the operational characteristics of AlGaN/GaN high-electron-mobility transistors (HEMTs) by employing various passivation materials with different dielectric constants and passivation structures.  
+To ensure the simulation reliability, the parameters were calibrated based on the measured data from the fabricated basic Si₃N₄ passivation structure of the HEMT. The Si₃N₄ passivation material was replaced with high-k materials, such as Al₂O₃ and HfO₂, to improve the breakdown voltage. The Al₂O₃ and HfO₂ passivation structures achieved breakdown voltage improvements of 6.62% and 17.45%, respectively, compared to the basic Si₃N₄ passivation structure.  
+
+However, the increased parasitic capacitances reduced the cut-off frequency. To mitigate this reduction, the operational characteristics of hybrid and partial passivation structures were analyzed. Compared with the HfO₂ passivation structure, the HfO₂ partial passivation structure exhibited a 7.6% reduction in breakdown voltage but a substantial 82.76% increase in cut-off frequency.  
+
+In addition, the HfO₂ partial passivation structure exhibited the highest Johnson’s figure of merit. Consequently, considering the trade-off relationship between breakdown voltage and frequency characteristics, the HfO₂ partial passivation structure emerged as a promising candidate for high-power and high-frequency AlGaN/GaN HEMT applications.
+
+</div>
