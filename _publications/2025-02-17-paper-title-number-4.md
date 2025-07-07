@@ -12,7 +12,8 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
 
 ![{52901827-0406-4856-86BB-199D2F7D3094}](https://github.com/user-attachments/assets/e236ad31-6051-4cbc-895d-50d2788d6181)
 ![KakaoTalk_20250707_153656243](https://github.com/user-attachments/assets/0276b9a6-64ed-4e6e-ac54-18d2120ebfb6)
-### Oral Presentation: Chair:Ho-Young Cha(Hongik University)
+### Oral Presentation
+### Chair:Ho-Young Cha(Hongik University)
 ### Abstract
 <div class="justify-text">
 This study investigates the thermal and DC characteristics of single-finger, two-finger, and fourfinger AlGaN/GaN high-electron-mobility transistors (HEMTs) by considering the self-heating
