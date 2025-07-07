@@ -44,6 +44,6 @@ performance and spatial utilization. Nevertheless, the
 optimized design improves the thermal stability and 
 reliability of multi-finger HEMTs, addressing key concerns 
 with AlGaN/GaN power devices.
-
+---
 
 
