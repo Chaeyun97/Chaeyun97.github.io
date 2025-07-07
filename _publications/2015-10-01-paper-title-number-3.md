@@ -17,5 +17,6 @@ Although self-heating effects in AlGaN/GaN HEMTs have been widely investigated, 
 This study investigates the thermal and DC characteristics of single-finger and multi-finger HEMTs to mitigate thermal crosstalk and inter-finger temperature variations. The design of a four-finger HEMT is optimized by adjusting the central source contact length to 6 μm, which increases the spacing between the second and third gate fingers to reduce thermal interaction and ensure uniform temperature distribution.
 
 The proposed configuration enhances the DC and thermal characteristics, delivering a more uniform temperature distribution among the fingers than the conventional structure, albeit at the expense of reduced area efficiency. Nevertheless, the optimized design improves the thermal stability and reliability of multi-finger HEMTs, addressing key concerns with AlGaN/GaN power devices.
+![그림1](https://github.com/user-attachments/assets/05add6c8-210e-4ae3-be69-398f7f0d771c
 </div>
-![그림1](https://github.com/user-attachments/assets/05add6c8-210e-4ae3-be69-398f7f0d771c)
+
