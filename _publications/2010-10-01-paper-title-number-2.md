@@ -10,12 +10,9 @@ venue: 'Micromachines'
 paperurl: 'http://chaeyun97.github.io/files/Micromachines.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-
 ![그림2](/images/그림2.png)
-Abstract
-
+### Abstract
 <div class="justify-text">
-
 This study investigates the operational characteristics of AlGaN/GaN high-electron-mobility transistors (HEMTs) by employing various passivation materials with different dielectric constants and passivation structures.  
 To ensure the simulation reliability, the parameters were calibrated based on the measured data from the fabricated basic Si₃N₄ passivation structure of the HEMT. The Si₃N₄ passivation material was replaced with high-k materials, such as Al₂O₃ and HfO₂, to improve the breakdown voltage. The Al₂O₃ and HfO₂ passivation structures achieved breakdown voltage improvements of 6.62% and 17.45%, respectively, compared to the basic Si₃N₄ passivation structure.  
 
