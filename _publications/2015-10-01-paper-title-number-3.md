@@ -8,7 +8,7 @@ paperurl: 'https://chaeyun97.github.io/files/TED-Submitted.pdf'
 citation: 'Your Name, You. (2025). &quot;Optimization of Central Source Contact Length...&quot; <i>IEEE Trans. Electron Devices</i>.'
 status: submitted
 ---
-![그림1](/images/그림1.jpg)
+![그림1](/images/그림1.png)
 ### Abstract
 <div class="justify-text">
 Thermal crosstalk and temperature variations among gate fingers hinder the operation of multi-finger AlGaN/GaN high-electron-mobility transistors (HEMTs) by increasing channel lattice temperatures and exacerbating the degradation of device performance.  
