@@ -21,5 +21,5 @@ citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub J
  lengths. Additionally, the conduction band slope of the AlGaN barrier became more gradual, which reduced the probability of electron tunneling and gate leakage
  current. Also, an increase in acceptor trap diffusion length reduced the difference between ionized acceptor trap densities in the GaN buffer before and after stress
  pulse, thereby leading to a smaller 2-DEG variation and mitigation of current collapse. These findings indicate that the diffusion length in the GaN buffer is a key
- factor influencing both the DC characteristics and current collapse of the AlGaN/GaN HEMT
+ factor influencing both the DC characteristics and current collapse of the AlGaN/GaN HEMT.
  </div>
