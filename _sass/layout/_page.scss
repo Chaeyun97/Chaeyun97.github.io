@@ -399,3 +399,40 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+/* ==========================================================================
+   Mobile responsive fix for sidebar/main layout
+   ========================================================================== */
+
+@media screen and (max-width: 768px) {
+  #main {
+    display: flex;
+    flex-direction: column !important;
+  }
+
+  .author__sidebar,
+  .page__sidebar {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 1rem !important;
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .page__main,
+  .page__content {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 1rem !important;
+    word-break: break-word;
+  }
+
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  nav ul li {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+}
