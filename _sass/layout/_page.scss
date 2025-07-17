@@ -445,3 +445,19 @@
     padding: 1rem !important;
   }
 }
+
+.page__main {
+  flex: 1;
+  padding: 2rem;
+  width: calc(100% - 260px);
+  overflow-x: hidden;
+  word-wrap: break-word;
+
+  /* ✅ 스크롤바 침범 방지 핵심 코드 */
+  box-sizing: border-box;
+  padding-right: 2rem; /* 또는 원하는 만큼 */
+}
+
+html {
+  overflow-y: scroll; /* 항상 스크롤 공간 확보 */
+}
