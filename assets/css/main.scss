@@ -42,3 +42,11 @@
 
     "theme/custom"   // ✅ 커스텀 스타일 최종 import 위치
 ;
+html {
+  overflow-y: scroll;
+}
+
+#main {
+  padding-right: 1rem; /* 스크롤 가림 방지용 여백 */
+  box-sizing: border-box;
+}
