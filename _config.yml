@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chaeyun Lim / Chaeyun's webpage"
+title                    : "Chae-Yun Lim"
 title_separator          : "-"
-name                     : &name "Chaeyun Lim"
+name                     : &name "Chae-Yun Lim"
 description              : &description "RF/mmWave Devices, GaN HEMTs researcher at Dongguk University"
 url                      : https://chaeyun97.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,32 +23,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "https://chaeyun97.github.io/images/KakaoTalk_20250407_192431862.jpg"
-  name             : "Chaeyun Lim"
+  name             : "Chae-Yun Lim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Seoul, Korea"
   employer         : "Dongguk University"
   uri              : # URL
   email            : "cylk9799@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
+  googlescholar    : "https://scholar.google.com/citations?hl=ko&user=z-b6dcEAAAAJ"
+  
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
