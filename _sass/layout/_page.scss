@@ -423,9 +423,11 @@
 .page__main {
   flex: 1;
   padding: 2rem;
-  max-width: calc(100% - 260px);
+  width: calc(100% - 260px);           /* ✅ 고정 너비로 계산 */
   overflow-x: hidden;
   word-wrap: break-word;
+  box-sizing: border-box;              /* ✅ 여백 포함 계산 */
+  padding-right: 2rem;                 /* ✅ 스크롤바 침범 방지 */
 }
 
 /* 모바일 대응 */
@@ -446,18 +448,6 @@
   }
 }
 
-.page__main {
-  flex: 1;
-  padding: 2rem;
-  width: calc(100% - 260px);
-  overflow-x: hidden;
-  word-wrap: break-word;
-
-  /* ✅ 스크롤바 침범 방지 핵심 코드 */
-  box-sizing: border-box;
-  padding-right: 2rem; /* 또는 원하는 만큼 */
-}
-
 html {
-  overflow-y: scroll; /* 항상 스크롤 공간 확보 */
+  overflow-y: scroll; /* ✅ 항상 스크롤 공간 확보 */
 }
