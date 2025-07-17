@@ -1,42 +1,53 @@
 {% include base_path %}
 
 <div class="masthead">
-  <div class="masthead__inner-wrap" style="display: flex; align-items: center; justify-content: space-between;">
-    <!-- 왼쪽: 제목 -->
-    <div class="site-title">
-      <a href="{{ base_path }}/">{{ site.title }}</a>
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+
+      <!-- ✅ 햄버거 토글 버튼 추가 -->
+      <button id="menu-toggle" aria-label="Toggle navigation">☰</button>
+
+      <nav id="site-nav" class="greedy-nav">
+        <ul class="visible-links">
+          <!-- 사이트 제목 링크 -->
+          <li class="masthead__menu-item masthead__menu-item--lg persist">
+            <a href="{{ base_path }}/">{{ site.title }}</a>
+          </li>
+
+          <!-- 메뉴 반복 출력 -->
+          {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = base_path %}
+            {% endif %}
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+
+          <!-- 테마 토글 (예: 다크모드) -->
+          <li id="theme-toggle" class="masthead__menu-item persist tail">
+            <a role="button" aria-labelledby="theme-icon">
+              <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
+            </a>
+          </li>
+        </ul>
+
+        <!-- greedy-nav의 숨겨진 메뉴 리스트 (기본구조 유지) -->
+        <ul class="hidden-links hidden"></ul>
+      </nav>
     </div>
-
-    <!-- 오른쪽: 햄버거 버튼 -->
-    <button id="menu-toggle" aria-label="Toggle navigation">☰</button>
   </div>
-
-  <!-- 아래 메뉴 -->
-  <nav id="site-nav" class="greedy-nav">
-    <ul class="visible-links">
-      {% for link in site.data.navigation.main %}
-        {% assign domain = link.url contains 'http' | ternary: '', base_path %}
-        <li class="masthead__menu-item">
-          <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-        </li>
-      {% endfor %}
-
-      <li id="theme-toggle" class="masthead__menu-item persist tail">
-        <a role="button" aria-labelledby="theme-icon">
-          <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
-        </a>
-      </li>
-    </ul>
-    <ul class="hidden-links hidden"></ul>
-  </nav>
 </div>
 
+<!-- ✅ 메뉴 토글 JavaScript -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const toggle = document.getElementById("menu-toggle");
   const nav = document.querySelector(".greedy-nav");
   if (toggle && nav) {
-    toggle.addEventListener("click", function () {
+    toggle.addEventListener("click", () => {
       nav.classList.toggle("show-menu");
     });
   }
