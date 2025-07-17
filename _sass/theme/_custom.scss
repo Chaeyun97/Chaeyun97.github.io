@@ -1,0 +1,24 @@
+// ⛔ 수평 스크롤 문제 제거
+html, body {
+  overflow-x: hidden;
+}
+
+// ✅ 왼쪽 사이드바와 본문 너비 조정
+.sidebar {
+  width: 260px;
+  min-width: 260px;
+  float: left;
+  margin-right: 2rem;
+}
+
+.page__content {
+  margin-left: 280px; // 사이드바 너비보다 살짝 크게
+  max-width: 100%;
+  overflow-x: hidden;
+  word-wrap: break-word;
+}
+
+.wrapper {
+  overflow-x: hidden;
+}
+@import "theme/custom";
