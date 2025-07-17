@@ -1,23 +1,34 @@
-// ⛔ 수평 스크롤 문제 제거
+/* 수평 스크롤 제거 */
 html, body {
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
 }
 
-// ✅ 왼쪽 사이드바와 본문 너비 조정
-.sidebar {
-  width: 260px;
-  min-width: 260px;
-  float: left;
-  margin-right: 2rem;
-}
-
-.page__content {
-  margin-left: 280px; // 사이드바 너비보다 살짝 크게
-  max-width: 100%;
-  overflow-x: hidden;
-  word-wrap: break-word;
-}
-
+/* 전체 wrapper flex 레이아웃 */
 .wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+/* 좌측 sidebar */
+.sidebar {
+  flex: 0 0 250px;
+  max-width: 250px;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border-right: 1px solid #eee;
+}
+
+/* 우측 본문 영역 */
+.page__content {
+  flex: 1;
+  padding: 2rem;
+  max-width: 100%;
+  overflow-wrap: break-word;
   overflow-x: hidden;
 }
