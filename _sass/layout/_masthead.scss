@@ -45,7 +45,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -65,17 +64,28 @@
     font-weight: 700;
   }
 }
+
+/* ✅ 햄버거 버튼 스타일 개선 */
 #menu-toggle {
   display: none;
   background: none;
   border: none;
-  font-size: 1.5em;
+  font-size: 2rem;                    // 크기 키움
+  padding: 0.6rem 1rem;               // 터치 영역 확보
   margin-left: auto;
   margin-right: 1rem;
-  cursor: pointer;
   color: var(--global-text-color);
+  border-radius: 6px;
+  cursor: pointer;
+  line-height: 1;
+  transition: background 0.2s ease;
 }
 
+#menu-toggle:hover {
+  background-color: var(--global-hover-color, #eee); // 터치 반응
+}
+
+/* ✅ 모바일 메뉴 토글 */
 @media (max-width: 768px) {
   #menu-toggle {
     display: block;
