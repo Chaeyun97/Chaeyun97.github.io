@@ -5,15 +5,15 @@
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
-  height: fit-content;
   top: 0;
   width: 100%;
+  height: fit-content;
+  z-index: 20;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-  z-index: 20;
 
   &::after {
     content: "";
@@ -27,7 +27,13 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+
+    display: flex;                    // ✅ Flex 레이아웃
+    align-items: center;             // ✅ 수직 정렬
+    justify-content: space-between; // ✅ 양쪽 정렬
+    flex-wrap: wrap;                 // ✅ 모바일 줄바꿈 허용
+
+    padding: 0.25em 0.75em;          // ✅ 여백 줄임
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -65,13 +71,13 @@
   }
 }
 
-/* ✅ 햄버거 버튼 스타일 개선 */
+/* ✅ 햄버거 버튼 스타일 */
 #menu-toggle {
   display: none;
   background: none;
   border: none;
-  font-size: 2rem;                    // 크기 키움
-  padding: 0.6rem 1rem;               // 터치 영역 확보
+  font-size: 2rem;
+  padding: 0.6rem 1rem;
   margin-left: auto;
   margin-right: 1rem;
   color: var(--global-text-color);
@@ -82,10 +88,10 @@
 }
 
 #menu-toggle:hover {
-  background-color: var(--global-hover-color, #eee); // 터치 반응
+  background-color: var(--global-hover-color, #eee);
 }
 
-/* ✅ 모바일 메뉴 토글 */
+/* ✅ 모바일 메뉴 */
 @media (max-width: 768px) {
   #menu-toggle {
     display: block;
