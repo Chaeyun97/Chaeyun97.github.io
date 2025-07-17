@@ -363,3 +363,43 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+/* Fix overlapping between sidebar and main content */
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+/* Sidebar 설정 */
+.author__sidebar {
+  flex: 0 0 260px;
+  max-width: 260px;
+  padding: 1rem;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border-right: 1px solid #eee;
+}
+
+/* Main 콘텐츠 설정 */
+.main {
+  flex: 1;
+  padding: 2rem;
+  max-width: calc(100% - 260px);
+  overflow-x: hidden;
+  word-wrap: break-word;
+}
+@media screen and (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  .author__sidebar,
+  .main {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .main {
+    padding: 1rem !important;
+  }
+}
