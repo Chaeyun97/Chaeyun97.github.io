@@ -400,39 +400,48 @@
   text-transform: uppercase;
 }
 /* ==========================================================================
-   Mobile responsive fix for sidebar/main layout
+   Fix for Sidebar and Main Content Overlapping
    ========================================================================== */
 
+.page {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+
+.author__sidebar,
+.page__sidebar {
+  flex: 0 0 260px;
+  max-width: 260px;
+  padding: 1rem;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border-right: 1px solid #eee;
+}
+
+.page__main {
+  flex: 1;
+  padding: 2rem;
+  max-width: calc(100% - 260px);
+  overflow-x: hidden;
+  word-wrap: break-word;
+}
+
+/* 모바일 대응 */
 @media screen and (max-width: 768px) {
-  #main {
-    display: flex;
-    flex-direction: column !important;
+  .page {
+    flex-direction: column;
   }
 
   .author__sidebar,
-  .page__sidebar {
-    width: 100% !important;
+  .page__sidebar,
+  .page__main {
     max-width: 100% !important;
-    padding: 1rem !important;
-    border-right: none;
-    border-bottom: 1px solid #ddd;
-  }
-
-  .page__main,
-  .page__content {
     width: 100% !important;
-    max-width: 100% !important;
+  }
+
+  .page__main {
     padding: 1rem !important;
-    word-break: break-word;
-  }
-
-  nav ul {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  nav ul li {
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
   }
 }
