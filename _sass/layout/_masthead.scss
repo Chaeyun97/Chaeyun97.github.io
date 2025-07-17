@@ -28,12 +28,12 @@
     @include container;
     @include clearfix;
 
-    display: flex;                    // ✅ Flex 레이아웃
-    align-items: center;             // ✅ 수직 정렬
-    justify-content: space-between; // ✅ 양쪽 정렬
-    flex-wrap: wrap;                 // ✅ 모바일 줄바꿈 허용
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 
-    padding: 0.25em 0.75em;          // ✅ 여백 줄임
+    padding: 0.25em 0.75em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -91,7 +91,16 @@
   background-color: var(--global-hover-color, #eee);
 }
 
-/* ✅ 모바일 메뉴 */
+/* ✅ 메뉴 항목 줄바꿈 허용 (글자 잘림 방지) */
+.masthead__menu-item a {
+  display: inline-block;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: keep-all;
+  white-space: normal;
+}
+
+/* ✅ 모바일 대응 */
 @media (max-width: 768px) {
   #menu-toggle {
     display: block;
@@ -108,4 +117,18 @@
   .greedy-nav.show-menu .visible-links {
     display: flex;
   }
+
+  .masthead__menu-item {
+    width: 100%;
+  }
+
+  .masthead__menu-item a {
+    font-size: 1rem;
+    padding: 0.5rem 0;
+  }
+}
+
+/* ✅ 본문과 masthead 겹침 방지 */
+body {
+  padding-top: 4.5rem; // masthead 높이에 맞춰 조절
 }
