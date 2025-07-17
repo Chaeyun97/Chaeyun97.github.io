@@ -4,20 +4,18 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
 
-      <!-- ✅ 햄버거 토글 버튼 (nav 바깥에 있어야 함) -->
+      <!-- ✅ 햄버거 토글 버튼 -->
       <button id="menu-toggle" aria-label="Toggle navigation">☰</button>
 
       <!-- ✅ greedy-nav 메뉴 -->
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <!-- 기존 버튼 제거됨 -->
 
         <ul class="visible-links">
-          <!-- 사이트 제목 -->
           <li class="masthead__menu-item masthead__menu-item--lg persist">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
 
-          <!-- 네비게이션 메뉴 반복 -->
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -29,7 +27,6 @@
             </li>
           {% endfor %}
 
-          <!-- 테마 아이콘 -->
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon">
               <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
@@ -37,7 +34,6 @@
           </li>
         </ul>
 
-        <!-- greedy-nav 구조상 필수 -->
         <ul class="hidden-links hidden"></ul>
       </nav>
 
@@ -45,7 +41,6 @@
   </div>
 </div>
 
-<!-- ✅ 햄버거 메뉴 작동용 JS -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const toggle = document.getElementById("menu-toggle");
