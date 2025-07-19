@@ -1,14 +1,17 @@
 ---
-title: "High-Efficiency RF Power Amplifier using GaN HEMTs"
+title: "High Electron Mobility Transistors for High Power and High Heat Dissipation Operation"
 collection: patents
-permalink: /patents/gan-rf-patent/
-excerpt: "A patented GaN HEMT device for high-efficiency RF applications."
-date: 2024-12-01
+permalink: /patents/heat-dissipation-hemt/
+excerpt: "A GaN HEMT device designed for high-power and high heat dissipation applications."
+date: 2025-04-30
 authors:
-  - Chaeyun Lim
-publication: "Korean Patent Application No. 10-2024-123456"
-links:
-  - name: "Patent Link"
-    url: "https://patents.google.com/patent/10-2024-123456"
+  - C. Y. Lim
+  - J. H. Lee
+  - T. S. Kim
+  - Y. H. Won
+  - H. S. Kim
+publication: "Korean Patent Application No. 10-2025-0057626"
+status: "applied"
 ---
-Details about the patented design using Silvaco TCAD.
+
+This patent introduces a novel high electron mobility transistor structure optimized for efficient high-power operation and improved thermal dissipation.
