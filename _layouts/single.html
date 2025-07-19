@@ -55,6 +55,9 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+         {% if page.collection == "patents" and page.publication %}
+    <p><strong>Application Number:</strong> {{ page.publication }}</p>
+  {% endif %}
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
