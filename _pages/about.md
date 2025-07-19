@@ -61,6 +61,7 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current
 ▪ Proposed enhanced structures optimized for 5G frequency bands based on trade-off analysis.
 
 ▪ Suggested methods to enhance the reliability of GaN HEMTs through DC-RF correlation and thermal coupling analysis.
+<img width="534" height="748" alt="image" src="https://github.com/user-attachments/assets/0b3bdb7a-53ff-422d-82d6-8434f981f031" />
 
 
 
