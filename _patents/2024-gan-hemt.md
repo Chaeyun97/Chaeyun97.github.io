@@ -12,6 +12,11 @@ authors:
   - H. S. Kim
 publication: "Korean Patent Application No. 10-2025-0057626"
 status: "applied"
+layout: default
 ---
 
+# High-Power GaN HEMT with Enhanced Heat Dissipation
+
 This patent introduces a novel high electron mobility transistor structure optimized for efficient high-power operation and improved thermal dissipation.
+
+The device incorporates advanced structural design and thermal spreading techniques validated through TCAD simulation using Silvaco.
