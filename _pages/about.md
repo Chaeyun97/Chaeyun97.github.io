@@ -62,8 +62,7 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current
 
 ▪ Suggested methods to enhance the reliability of GaN HEMTs through DC-RF correlation and thermal coupling analysis.
 
-<img width="492" height="355" alt="image" src="https://github.com/user-attachments/assets/9732dda3-8a80-4087-998b-6a071f9c9891" /> <img width="534" height="395" alt="image" src="https://github.com/user-attachments/assets/0f5f7e48-1e9b-4ec7-bf2e-a140b129bf53" />
-
+<img width="1012" height="659" alt="그림2" src="https://github.com/user-attachments/assets/293d53f6-b8a1-40dc-8f85-fb2cc1c67a2b" />
 
 
 
