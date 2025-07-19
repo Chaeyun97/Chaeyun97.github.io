@@ -67,8 +67,13 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current
 <img width="1401" height="787" alt="그림3" src="https://github.com/user-attachments/assets/4365e5cd-52b5-4ca9-9ff8-159af36bc630" />
 
 
+<img width="1406" height="624" alt="그림1" src="https://github.com/user-attachments/assets/8a62676d-9bb6-4d4c-8053-cbcddb9b7fb9" />
 
+<img width="1086" height="373" alt="그림2" src="https://github.com/user-attachments/assets/0c3b208c-b513-4231-ab65-9e2e275ef1b2" />
 
+<img width="1407" height="437" alt="그림3" src="https://github.com/user-attachments/assets/dee3f2e5-ff0f-493b-8171-9bbfe2fb2f98" />
+
+<img width="1404" height="799" alt="그림4" src="https://github.com/user-attachments/assets/f357287e-3297-428e-a347-4f6d6fffcfcc" />
 
 Research Interests
 ======
