@@ -3,7 +3,7 @@ title: "Operational Characteristics of AlGaN/GaN High-Electron-Mobility Transist
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-date: 2010-10-01
+date: 2024-09-03
 venue: 'Micromachines'
 
 paperurl: 'http://chaeyun97.github.io/files/Micromachines.pdf'
