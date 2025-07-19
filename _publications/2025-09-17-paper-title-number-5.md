@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-09-17-paper-title-number-4
 date: 2025-09-17
-venue: 'GitHub Journal of Bugs'
+venue: 'ICSCRM 2025'
 paperurl: 'https://chaeyun97.github.io/files/ICSCRM2025_Abstract.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 status: accepted
