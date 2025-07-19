@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-02-17-paper-title-number-4
 date: 2025-02-17
+venue: 'The 32nd Korean Conference on Semiconductors (KCS 2025)'
 paperurl: 'http://chaeyun97.github.io/files/KCS2025_Abstract.pdf'
 slidesurl: 'http://chaeyun97.github.io/files/KCS2025_Slide.pdf'
 citation: '<u>C. Y. Lim</u>, J. H. Lee, T. S. Kim, Y. H. Won, and H. S. Kim'
