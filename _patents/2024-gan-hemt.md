@@ -15,7 +15,6 @@ status: "applied"
 layout: default
 ---
 
-# High Electron Mobility Transistors for High Power and High Heat Dissipation Operation
 
 This patent introduces a novel high electron mobility transistor structure optimized for efficient high-power operation and improved thermal dissipation.
 
