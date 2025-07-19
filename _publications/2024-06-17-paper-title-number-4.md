@@ -4,9 +4,9 @@ collection: publications
 category: conferences
 permalink: /publication/2024-06-17-paper-title-number-4
 date: 2024-06-17
-venue: 'GitHub Journal of Bugs'
+venue: 'Proceedings of the IEEK Conference'
 paperurl: 'http://chaeyun97.github.io/files/IEIE2024.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'J. H. Lee, <u>C. Y. Lim</u>, J. H. Kim, and H. S. Kim, 2024 (Jun), “Improvement of Cut-off Frequency and Breakdown Voltage Operation Characteristics of AlGaN/GaN HEMT Devices by Applying Various 1st Passivation Materials and Asymmetric Passivation Structure: A Simulation Study”, Proceedings of the IEEK Conference, pp.610–614'
 ---
 ![그림3](https://github.com/user-attachments/assets/18d111e4-62ef-4d67-849f-f1202c9a2d71)
  ![KakaoTalk_20250707_160142072](https://github.com/user-attachments/assets/08f9ddda-67e0-4c34-b721-664dce796313)
