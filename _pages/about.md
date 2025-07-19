@@ -81,7 +81,7 @@ Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
 
 ![그림12](https://github.com/user-attachments/assets/eb091a59-9bbc-4be6-8b3e-a86890f833c8)
 
-<img width="1422" height="639" alt="image" src="https://github.com/user-attachments/assets/4552dbd3-7e5f-48c2-ad60-78538cf30cde" />
+<img width="1423" height="639" alt="image" src="https://github.com/user-attachments/assets/a95b13c0-fe2b-424e-bbf5-9ea13b884608" />
 
 Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current)
 
