@@ -46,6 +46,12 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul 
 
 ![그림10](https://github.com/user-attachments/assets/cc543357-1324-48d5-8da9-3c0cbf74e526)
 
+
+
+<img width="931" height="387" alt="image" src="https://github.com/user-attachments/assets/4b19ad81-3a7f-410e-97c7-6c7d194d435d" />
+<img width="1386" height="406" alt="image" src="https://github.com/user-attachments/assets/8205d940-2b6a-4146-8dbc-b8ac7712636b" />
+<img width="1616" height="401" alt="image" src="https://github.com/user-attachments/assets/9369bbfd-6c2e-47a5-98f1-a3a2ebf3ee41" />
+
 <img width="1313" height="508" alt="image" src="https://github.com/user-attachments/assets/53a74325-9274-48c9-97c4-647750bd1a6b" />
 <img width="1273" height="779" alt="image" src="https://github.com/user-attachments/assets/60be0b9d-5da0-4d65-914b-b8e6d5986946" />
 <img width="1415" height="741" alt="image" src="https://github.com/user-attachments/assets/1172b023-5a18-40ad-88c2-34fd6e12dad4" />
