@@ -23,7 +23,9 @@ Analysis of GaN HEMT Device Characteristics According to Dielectric Layer Compos
 ▪ Analyzed the influence of different dielectric materials (Si₃N₄, Al₂O₃, etc.) on DC to RF performance.
 
 ▪ Evaluated heat distribution and designed efficient thermal management structures based on dielectric variation.
+
 ![그림2](/images/그림2.png)
+
 <img width="1406" height="361" alt="그림1" src="https://github.com/user-attachments/assets/41ab5fbf-204c-47bf-b585-74212569342a" />
 
 Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul – Dec 2024)
@@ -33,9 +35,13 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul 
 ▪ Performed thermal simulations to optimize the heat sink structure and minimize hot spots.
 
 ▪ Compared DC and RF thermal characteristics with and without optimized thermal structure
+
 ![그림4](https://github.com/user-attachments/assets/e12418a9-10f7-48c2-a01b-af6be99365c5)
+
 ![그림6](https://github.com/user-attachments/assets/4a78dee9-0c39-417a-ab4c-0fe91105b382)
+
 ![그림7](https://github.com/user-attachments/assets/478faeb5-8975-4178-828c-b5706a1bbbdd)
+
 ![그림9](https://github.com/user-attachments/assets/579d9472-6a68-4e17-920b-e18db5c82fcf)
 
 ![그림10](https://github.com/user-attachments/assets/cc543357-1324-48d5-8da9-3c0cbf74e526)
@@ -51,7 +57,9 @@ Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
 ▪ Ensured simulation reliability to support further optimization of GaN HEMT performance.
 
 ![그림11](https://github.com/user-attachments/assets/728f9e57-5763-49de-84c5-caf9b2fd08de)
+
 ![그림12](https://github.com/user-attachments/assets/eb091a59-9bbc-4be6-8b3e-a86890f833c8)
+
 Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current)
 
 ▪ Integrated multi-year data to map realistic device operation and validate extracted parameters.
@@ -65,7 +73,6 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current
 <img width="1012" height="659" alt="그림2" src="https://github.com/user-attachments/assets/293d53f6-b8a1-40dc-8f85-fb2cc1c67a2b" />
 
 <img width="1401" height="787" alt="그림3" src="https://github.com/user-attachments/assets/4365e5cd-52b5-4ca9-9ff8-159af36bc630" />
-
 
 <img width="1406" height="624" alt="그림1" src="https://github.com/user-attachments/assets/8a62676d-9bb6-4d4c-8053-cbcddb9b7fb9" />
 
