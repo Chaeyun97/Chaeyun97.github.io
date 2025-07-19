@@ -49,19 +49,35 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul 
 
 
 <img width="931" height="387" alt="image" src="https://github.com/user-attachments/assets/4b19ad81-3a7f-410e-97c7-6c7d194d435d" />
+
+
 <img width="1386" height="406" alt="image" src="https://github.com/user-attachments/assets/8205d940-2b6a-4146-8dbc-b8ac7712636b" />
+
+
 <img width="1616" height="401" alt="image" src="https://github.com/user-attachments/assets/9369bbfd-6c2e-47a5-98f1-a3a2ebf3ee41" />
 
 <img width="1313" height="508" alt="image" src="https://github.com/user-attachments/assets/53a74325-9274-48c9-97c4-647750bd1a6b" />
+
+
 <img width="1273" height="779" alt="image" src="https://github.com/user-attachments/assets/60be0b9d-5da0-4d65-914b-b8e6d5986946" />
+
+
+
+
+
 <img width="1375" height="741" alt="image" src="https://github.com/user-attachments/assets/7170e28b-e086-4a22-ad68-35419ac39330" />
 
 
 
 
+
+
 <img width="1393" height="780" alt="그림2" src="https://github.com/user-attachments/assets/d991fa6f-9e06-4c15-8c54-f92ea416bf5a" />
+
 <img width="1054" height="440" alt="image" src="https://github.com/user-attachments/assets/1f5e4813-2b13-4a06-ac8c-390309c898ce" />
+
 <img width="1386" height="383" alt="image" src="https://github.com/user-attachments/assets/bd49f7f2-d604-431e-954b-40826a808196" />
+
 <img width="1580" height="405" alt="image" src="https://github.com/user-attachments/assets/ee71866d-fa44-4d45-b1d3-a7f8978b84d1" />
 
 
@@ -82,8 +98,11 @@ Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
 ![그림12](https://github.com/user-attachments/assets/eb091a59-9bbc-4be6-8b3e-a86890f833c8)
 
 <img width="1423" height="639" alt="image" src="https://github.com/user-attachments/assets/a95b13c0-fe2b-424e-bbf5-9ea13b884608" />
+
 <img width="1415" height="414" alt="image" src="https://github.com/user-attachments/assets/30f015fe-cd42-442c-b8b5-0af83a42581b" />
+
 <img width="1420" height="411" alt="image" src="https://github.com/user-attachments/assets/dcc1ebe4-9847-4af1-8a43-8453dd580261" />
+
 <img width="1030" height="406" alt="image" src="https://github.com/user-attachments/assets/9e172e74-56ce-4007-bbdf-ab9945580c03" />
 
 <img width="1444" height="890" alt="image" src="https://github.com/user-attachments/assets/776bb71b-cfb4-44fa-b92e-14ab5bbe420f" />
