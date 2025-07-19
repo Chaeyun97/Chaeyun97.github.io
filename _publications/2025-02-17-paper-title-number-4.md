@@ -6,7 +6,7 @@ permalink: /publication/2025-02-17-paper-title-number-4
 date: 2025-02-17
 paperurl: 'http://chaeyun97.github.io/files/KCS2025_Abstract.pdf'
 slidesurl: 'http://chaeyun97.github.io/files/KCS2025_Slide.pdf'
-citation: 'C. Y. Lim, J. H. Lee, T. S. Kim, Y. H. Won, and H. S. Kim'
+citation: '<u>C. Y. Lim</u>, J. H. Lee, T. S. Kim, Y. H. Won, and H. S. Kim'
 ---
 
 
