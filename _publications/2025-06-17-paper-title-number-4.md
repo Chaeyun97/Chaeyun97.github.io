@@ -11,7 +11,7 @@ citation: 'T. S. Kim, Y. H. Won, J. H. Lee, <u>C. Y. Lim</u>, and H. S. Kim, 202
 ![{E457EA9E-C9D6-4C4A-A66F-CF9A5DF27008}](https://github.com/user-attachments/assets/e31cfdad-e116-4b16-b107-3f8f640de2bc)
 ![{CC89F393-37DD-4ED5-8538-F49BDD7DA5F8}](https://github.com/user-attachments/assets/6716ac25-d3d8-4cc6-b286-8a3e416c6737)
 ![KakaoTalk_20250707_152453168](https://github.com/user-attachments/assets/bf397774-82ed-467c-b503-cd941ea5053b)
-<img width="584" height="286" alt="{675CCB68-983F-439E-B477-01A19867C62F}" src="https://github.com/user-attachments/assets/eebcb7af-737c-4682-b678-8491584dcc68" />
+<img width="1161" height="571" alt="{292FEE2E-CEC1-4AD4-9974-30D7BCF29243}" src="https://github.com/user-attachments/assets/4f40f844-bfcb-4bd3-a63d-19887bd421c9" />
 
 
 ### Abstract
