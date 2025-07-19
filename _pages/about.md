@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Chaeyun Lim, a researcher at Dongguk University interested in RF/mmWave Devices, GaN HEMTs.
+Hi, I’m Chae-Yun Lim, a graduate student researcher at Dongguk University specializing in GaN-based high-power RF/mmWave devices.
 
-This website is where I share my research publications, academic presentations, and professional activities.  
-I am currently working on advanced modeling and simulation of AlGaN/GaN HEMTs using Silvaco TCAD, with focus on DC to RF performance optimization and thermal management.
+My work focuses on TCAD simulation, GaN HEMT structure optimization, and thermal management of power semiconductor devices.
+I’m passionate about improving device efficiency through modeling and collaborating with institutions like ETRI.
+
+You can find my publications and patents here, and feel free to connect on LinkedIn or email.
+
 
 Research Experiences
 ======
