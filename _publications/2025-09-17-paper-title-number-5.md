@@ -6,7 +6,7 @@ permalink: /publication/2025-09-17-paper-title-number-4
 date: 2025-09-17
 venue: 'ICSCRM 2025'
 paperurl: 'https://chaeyun97.github.io/files/ICSCRM2025_Abstract.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'T. S. Kim, Y. H. Won, J. H. Lee, <u>C. Y. Lim</u>, and H. S. Kim, “Optimization of Source-connected Field Plate in AlGaN/GaN HEMTs towards high-power and high-frequency Operations: A Simulation Study”, Poster to be presented at ICSCRM 2025'
 status: accepted
 ---
 ![{25DE9762-D9DC-4A46-A9A1-5EBFDB47907D}](https://github.com/user-attachments/assets/21ffae1d-a635-40ea-9700-22c012e13f39)
