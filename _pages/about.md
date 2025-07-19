@@ -134,6 +134,8 @@ Research Interests
 
 •  Modeling and simulation of AlGaN/GaN HEMT devices using TCAD tools for the analysis and prediction of their 
 operational characteristics, with a focus on heat dissipation, DC characteristics, and frequency performance. 
+
+
 • Structural optimization of AlGaN/GaN HEMTs by varying geometrical parameters (e.g., gate length, layer thickness), 
 engineering epitaxial layer materials, and implementing advanced device architectures. Current research involves 
 Silvaco TCAD simulations to extract optimal device configurations for enhanced DC and RF performance.
