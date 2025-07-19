@@ -7,7 +7,7 @@ date: 2024-09-03
 venue: 'Micromachines'
 
 paperurl: 'http://chaeyun97.github.io/files/Micromachines.pdf'
-citation: 'J. H. Kim, <u>C. Y. Lim</u>, J. H. Lee, J. H. Choi, B. G. Min, D. M. Kang and H. S. Kim, “Operational Characteristics of AlGaN/GaN High-Electron-Mobility Transistors with Various Dielectric Passivation Structures for High-Power and High-Frequency Operations: A Simulation Study”, *Micromachines*, vol. 15(9), 1126, DOI: [10.3390/mi15091126](https://doi.org/10.3390/mi15091126) '
+citation: 'J. H. Kim, <u>C. Y. Lim</u>, J. H. Lee, J. H. Choi, B. G. Min, D. M. Kang and H. S. Kim, “Operational Characteristics of AlGaN/GaN High-Electron-Mobility Transistors with Various Dielectric Passivation Structures for High-Power and High-Frequency Operations: A Simulation Study”, *Micromachines*, vol. 15(9), 1126, DOI: 10.3390/mi15091126'
 ---
 ![그림2](/images/그림2.png)
 ### Abstract
