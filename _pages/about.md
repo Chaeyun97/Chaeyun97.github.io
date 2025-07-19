@@ -23,7 +23,7 @@ Analysis of GaN HEMT Device Characteristics According to Dielectric Layer Compos
 ▪ Analyzed the influence of different dielectric materials (Si₃N₄, Al₂O₃, etc.) on DC to RF performance.
 
 ▪ Evaluated heat distribution and designed efficient thermal management structures based on dielectric variation.
-
+![그림2](/images/그림2.png)
 Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul – Dec 2024)
 
 ▪ Proposed high-efficiency heat dissipation structures for GaN HEMTs using Copper-Filled Thermal Vias and Trench Heat Sinks.
