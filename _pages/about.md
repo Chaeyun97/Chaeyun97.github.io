@@ -49,6 +49,15 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul 
 <img width="1313" height="508" alt="image" src="https://github.com/user-attachments/assets/53a74325-9274-48c9-97c4-647750bd1a6b" />
 <img width="1273" height="779" alt="image" src="https://github.com/user-attachments/assets/60be0b9d-5da0-4d65-914b-b8e6d5986946" />
 <img width="1415" height="741" alt="image" src="https://github.com/user-attachments/assets/1172b023-5a18-40ad-88c2-34fd6e12dad4" />
+<img width="1293" height="662" alt="그림1" src="https://github.com/user-attachments/assets/433c5c36-1c02-4586-90a4-3ac58efad383" />
+
+<img width="1393" height="780" alt="그림2" src="https://github.com/user-attachments/assets/d991fa6f-9e06-4c15-8c54-f92ea416bf5a" />
+<img width="1054" height="440" alt="image" src="https://github.com/user-attachments/assets/1f5e4813-2b13-4a06-ac8c-390309c898ce" />
+<img width="1386" height="383" alt="image" src="https://github.com/user-attachments/assets/bd49f7f2-d604-431e-954b-40826a808196" />
+<img width="1580" height="405" alt="image" src="https://github.com/user-attachments/assets/ee71866d-fa44-4d45-b1d3-a7f8978b84d1" />
+
+
+
 
 Jan 2025 – Current
 
