@@ -50,6 +50,8 @@ Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
 
 ▪ Ensured simulation reliability to support further optimization of GaN HEMT performance.
 
+![그림11](https://github.com/user-attachments/assets/728f9e57-5763-49de-84c5-caf9b2fd08de)
+![그림12](https://github.com/user-attachments/assets/eb091a59-9bbc-4be6-8b3e-a86890f833c8)
 Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current)
 
 ▪ Integrated multi-year data to map realistic device operation and validate extracted parameters.
@@ -60,8 +62,7 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current
 
 ▪ Suggested methods to enhance the reliability of GaN HEMTs through DC-RF correlation and thermal coupling analysis.
 
-![그림11](https://github.com/user-attachments/assets/728f9e57-5763-49de-84c5-caf9b2fd08de)
-![그림12](https://github.com/user-attachments/assets/eb091a59-9bbc-4be6-8b3e-a86890f833c8)
+
 
 
 
