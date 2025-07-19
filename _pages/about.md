@@ -46,6 +46,10 @@ Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul 
 
 ![그림10](https://github.com/user-attachments/assets/cc543357-1324-48d5-8da9-3c0cbf74e526)
 
+<img width="1313" height="508" alt="image" src="https://github.com/user-attachments/assets/53a74325-9274-48c9-97c4-647750bd1a6b" />
+<img width="1273" height="779" alt="image" src="https://github.com/user-attachments/assets/60be0b9d-5da0-4d65-914b-b8e6d5986946" />
+<img width="1415" height="741" alt="image" src="https://github.com/user-attachments/assets/1172b023-5a18-40ad-88c2-34fd6e12dad4" />
+
 Jan 2025 – Current
 
 Advanced 3D Modeling and Validation of 2D Simulation Data (Jan – Jun 2025)
