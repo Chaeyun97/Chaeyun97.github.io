@@ -40,12 +40,19 @@ layout: default
             <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.venue and page.date %}
             {% if page.status == "submitted" %}
-  <p><em>Submitted to</em> <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
-{% elsif page.status == "accepted" %}
-  <p><em>Accepted at</em> <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
-{% else %}
-  <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
-{% endif %}
+              <p><em>Submitted to</em> <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+            {% elsif page.status == "accepted" %}
+              <p><em>Accepted at</em> <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+            {% else %}
+              <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+            {% endif %}
+          {% elsif page.collection == 'patents' %}
+            {% if page.publication %}
+              <p><strong>Application Number:</strong> {{ page.publication }}</p>
+            {% endif %}
+            {% if page.status == "applied" or page.date %}
+              <p><strong>Applied:</strong> {{ page.date | date: "%Y" }}</p>
+            {% endif %}
           {% elsif page.date %}
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
               <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
@@ -55,9 +62,6 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-         {% if page.collection == "patents" and page.publication %}
-    <p><strong>Application Number:</strong> {{ page.publication }}</p>
-  {% endif %}
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
