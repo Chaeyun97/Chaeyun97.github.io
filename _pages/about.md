@@ -14,6 +14,16 @@ I’m passionate about improving device efficiency through modeling and collabor
 
 You can find my publications and patents here, and feel free to connect on LinkedIn or email.
 
+Research Interests
+======
+
+•  Modeling and simulation of AlGaN/GaN HEMT devices using TCAD tools for the analysis and prediction of their 
+operational characteristics, with a focus on heat dissipation, DC characteristics, and frequency performance. 
+
+
+• Structural optimization of AlGaN/GaN HEMTs by varying geometrical parameters (e.g., gate length, layer thickness), 
+engineering epitaxial layer materials, and implementing advanced device architectures. Current research involves 
+Silvaco TCAD simulations to extract optimal device configurations for enhanced DC and RF performance.
 
 Research Experiences
 ======
@@ -132,13 +142,3 @@ Optimization of 0.15 µm GaN HEMT for 5G 28 GHz Application (Jan – Current
 
 <img width="1404" height="799" alt="그림4" src="https://github.com/user-attachments/assets/f357287e-3297-428e-a347-4f6d6fffcfcc" />
 
-Research Interests
-======
-
-•  Modeling and simulation of AlGaN/GaN HEMT devices using TCAD tools for the analysis and prediction of their 
-operational characteristics, with a focus on heat dissipation, DC characteristics, and frequency performance. 
-
-
-• Structural optimization of AlGaN/GaN HEMTs by varying geometrical parameters (e.g., gate length, layer thickness), 
-engineering epitaxial layer materials, and implementing advanced device architectures. Current research involves 
-Silvaco TCAD simulations to extract optimal device configurations for enhanced DC and RF performance.
