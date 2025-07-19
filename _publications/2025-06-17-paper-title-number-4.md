@@ -4,9 +4,9 @@ collection: publications
 category: conferences
 permalink: /publication/2025-06-17-paper-title-number-4
 date: 2025-06-17
-venue: 'GitHub Journal of Bugs'
+venue: 'Proceedings of the IEEK Conference'
 paperurl: 'http://chaeyun97.github.io/files/IEIE.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'T. S. Kim, Y. H. Won, J. H. Lee, <u>C. Y. Lim</u>, and H. S. Kim, 2025 (Jun), “Impact of Acceptor Trap Diffusion Lengths on DC Performance and Current Collapse of AlGaN/GaN HEMTs: A Simulation Study”, Proceedings of the IEEK Conference, pp.1052–1056'
 ---
 ![{E457EA9E-C9D6-4C4A-A66F-CF9A5DF27008}](https://github.com/user-attachments/assets/e31cfdad-e116-4b16-b107-3f8f640de2bc)
 ![{CC89F393-37DD-4ED5-8538-F49BDD7DA5F8}](https://github.com/user-attachments/assets/6716ac25-d3d8-4cc6-b286-8a3e416c6737)
