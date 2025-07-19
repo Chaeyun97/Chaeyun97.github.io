@@ -1,5 +1,5 @@
 ---
-title: "High Electron Mobility Transistors for High Power and High Heat Dissipation Operation"
+title: "High-Power GaN HEMT with Enhanced Heat Dissipation"
 collection: patents
 permalink: /patents/heat-dissipation-hemt/
 excerpt: "A GaN HEMT device designed for high-power and high heat dissipation applications."
@@ -15,7 +15,7 @@ status: "applied"
 layout: default
 ---
 
-# High-Power GaN HEMT with Enhanced Heat Dissipation
+# High Electron Mobility Transistors for High Power and High Heat Dissipation Operation
 
 This patent introduces a novel high electron mobility transistor structure optimized for efficient high-power operation and improved thermal dissipation.
 
