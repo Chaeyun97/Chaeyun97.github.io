@@ -12,10 +12,5 @@ citation: 'J. H. Lee, <u>C. Y. Lim</u>, J. H. Kim, and H. S. Kim, 2024 (Jun), â€
  ![KakaoTalk_20250707_160142072](https://github.com/user-attachments/assets/08f9ddda-67e0-4c34-b721-664dce796313)
 ### Abstract
 <div class="justify-text">
- In this study, we analyzed the AlGaN/GaN HEMT structure to obtain superior DC and RF characteristics. Applying high-k materials to the 1st passivation layer enhanced
- the breakdown voltage but degradation of cut-off frequency occurred due to the high dielectric constant. In order to compensate for the degraded RF characteristics,
- we employed an asymmetric passivation by removing the passivation layer upon the gate-source region, which decreased Cgsand enhanced RF characteristics. We
- confirmed that the asymmetric passivation achieved high-frequency characteristics while maintaining DC characteristics, including VBD. In particular, the J-FOM of the
- Al2O3 asymmetric passivation exhibited the highest value of 7.98 THz-V among all structures. Thus, simulation results confirmed asymmetric passivation AlGaN/GaN
- HEMT with high-k dielectric to be a promisingcandidate for high-power and high-frequency operations.
+ In this study, we analyzed the AlGaN/GaN HEMT structure to obtain superior DC and RF characteristics. Applying high-k materials to the 1<sup>st</sup> passivation layer enhanced the breakdown voltage but degradation of cut-off frequency occurred due to the high dielectric constant. In order to compensate for the degraded RF characteristics, we employed an asymmetric passivation by removing the passivation layer upon the gate-source region, which decreased C<sub>gs</sub> and enhanced RF characteristics. We confirmed that the asymmetric passivation achieved high-frequency characteristics while maintaining DC characteristics, including V<sub>BD</sub>. In particular, the J-FOM of the Al<sub>2</sub>O<sub>3</sub> asymmetric passivation exhibited the highest value of 7.98 THz-V among all structures. Thus, simulation results confirmed asymmetric passivation AlGaN/GaN HEMT with high-k dielectric to be a promising candidate for high-power and high-frequency operations.
 </div>
