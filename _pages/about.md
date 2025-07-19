@@ -24,6 +24,8 @@ Analysis of GaN HEMT Device Characteristics According to Dielectric Layer Compos
 
 ▪ Evaluated heat distribution and designed efficient thermal management structures based on dielectric variation.
 ![그림2](/images/그림2.png)
+<img width="1406" height="361" alt="그림1" src="https://github.com/user-attachments/assets/41ab5fbf-204c-47bf-b585-74212569342a" />
+
 Thermal Structure Optimization for GaN HEMTs under Self-Heating Conditions (Jul – Dec 2024)
 
 ▪ Proposed high-efficiency heat dissipation structures for GaN HEMTs using Copper-Filled Thermal Vias and Trench Heat Sinks.
