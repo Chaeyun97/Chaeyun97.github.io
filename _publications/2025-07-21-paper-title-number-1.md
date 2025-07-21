@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 date: 2025
 paperurl: 
-citation: 'Young-Hyun Won, Tae-Sung Kim, Jae-Hun Lee, <u>Chae-Yun Lim</u> and Hyun-Seok Kim, working on new paper'
+citation: 'Y.H Won, T.S Kim, J.H Lee, <u>C.Y Lim</u> and H.S Kim, working on new paper'
 status: working on new paper
 ---
 <img width="1917" height="385" alt="그림2" src="https://github.com/user-attachments/assets/e07fb645-3562-4641-bd8e-3c826b5ac92b" />
