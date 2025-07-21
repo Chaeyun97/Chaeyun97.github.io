@@ -3,7 +3,7 @@ title: "Thermal Management Using AlN Passivation in AlGaN/GaN HEMTs with an Air 
 collection: publications
 category: manuscripts
 permalink: /publication/2000-07-21-paper-title-number-1
-date: 2000-07-21
+date: 2025-07-21
 paperurl: 
 citation: 'Y.H Won, T.S Kim, J.H Lee, <u>C.Y Lim</u> and H.S Kim, 2025 Work in Progress'
 status: working on new paper
