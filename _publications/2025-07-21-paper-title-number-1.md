@@ -3,10 +3,13 @@ title: "Thermal Management Using AlN Passivation in AlGaN/GaN HEMTs with an Air 
 collection: publications
 category: manuscripts
 date: 2025
-paperurl: 'https://chaeyun97.github.io/files/TED-Submitted.pdf'
+paperurl: 
 citation: 'Young-Hyun Won, Tae-Sung Kim, Jae-Hun Lee, <u>Chae-Yun Lim</u> and Hyun-Seok Kim, working on new paper'
 status: working on new paper
 ---
+<img width="1917" height="385" alt="그림2" src="https://github.com/user-attachments/assets/e07fb645-3562-4641-bd8e-3c826b5ac92b" />
+
+<img width="1509" height="630" alt="그림1" src="https://github.com/user-attachments/assets/447a89f5-edf1-4f43-b5d3-a7365d71d9d6" />
 
 
 ### Abstract
