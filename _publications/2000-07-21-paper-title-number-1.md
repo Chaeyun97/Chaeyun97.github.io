@@ -2,10 +2,10 @@
 title: "Thermal Management Using AlN Passivation in AlGaN/GaN HEMTs with an Air Gap Gate for Improved RF Performance"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-21-paper-title-number-1
-date: 2025-07-21
+permalink: /publication/2000-07-21-paper-title-number-1
+date: 2000-07-21
 paperurl: 
-citation: 'Y.H Won, T.S Kim, J.H Lee, <u>C.Y Lim</u> and H.S Kim, working on new paper'
+citation: 'Y.H Won, T.S Kim, J.H Lee, <u>C.Y Lim</u> and H.S Kim, 2025 working on new paper'
 status: working on new paper
 ---
 <img width="1917" height="385" alt="그림2" src="https://github.com/user-attachments/assets/e07fb645-3562-4641-bd8e-3c826b5ac92b" />
