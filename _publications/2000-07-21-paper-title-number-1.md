@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2000-07-21-paper-title-number-1
 date: 2000-07-21
 paperurl: 
-citation: 'Y.H Won, T.S Kim, J.H Lee, <u>C.Y Lim</u> and H.S Kim, 2025 working on new paper'
+citation: 'Y.H Won, T.S Kim, J.H Lee, <u>C.Y Lim</u> and H.S Kim, 2025 Work in Progress'
 status: working on new paper
 ---
 <img width="1917" height="385" alt="그림2" src="https://github.com/user-attachments/assets/e07fb645-3562-4641-bd8e-3c826b5ac92b" />
