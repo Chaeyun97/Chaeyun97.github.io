@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://chaeyun97.github.io/images/KakaoTalk_20250724_160831491.jpg"
+  avatar           : "https://chaeyun97.github.io/images/KakaoTalk_20250724_161803713.jpg
+"
   name             : "Chae-Yun Lim"
   pronouns         : # example: "she/her"  
   location         : "Seoul, Korea"
