@@ -17,13 +17,16 @@ You can find my publications and patents here, and feel free to connect on Linke
 Research Interests
 ======
 
-•  Modeling and simulation of AlGaN/GaN HEMT devices using TCAD tools for the analysis and prediction of their 
-operational characteristics, with a focus on heat dissipation, DC characteristics, and frequency performance. 
+My research centers on the development of next-generation electronic devices based on wide-bandgap (WBG) and ultra-wide-bandgap (UWBG) semiconductors, with the goal of enabling high-efficiency, thermally robust, and compact systems for advanced applications such as high-frequency communication, AI hardware, and power electronics.
 
+I focus on TCAD-based modeling and structural optimization of GaN-based HEMTs to improve breakdown voltage, frequency response, and heat dissipation under high-power conditions. 
 
-• Structural optimization of AlGaN/GaN HEMTs by varying geometrical parameters (e.g., gate length, layer thickness), 
-engineering epitaxial layer materials, and implementing advanced device architectures. Current research involves 
-Silvaco TCAD simulations to extract optimal device configurations for enhanced DC and RF performance.
+This involves exploring the effects of geometric scaling, passivation engineering, and material stack design to push the limits of device performance and reliability.
+
+Beyond individual device characteristics, I am also interested in the co-design of electronics at the interface between materials, device architecture, and system-level integration.
+
+I aim to investigate new pathways for managing charge, heat, and power density, and ultimately contribute to the realization of energy-efficient, space-saving platforms that meet the growing demands of modern electronics — from edge computing to extreme environment systems.
+
 
 Research Experiences
 ======
